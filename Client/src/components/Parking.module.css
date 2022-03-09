@@ -1,0 +1,25 @@
+.detail {
+  width: 80%;
+
+  position: absolute;
+  top: 15%;
+  left: 22%;
+  backdrop-filter: blur(30px);
+  border: 2px solid black;
+  width: 50%;
+  height: 95vh;
+  padding-top: 1%;
+  color: black;
+  font-size: 1.8rem;
+  font-weight: bold;
+  line-height: 1.8;
+  justify-content: center;
+}
+.log {
+  background-color: aliceblue;
+  margin-top: -4%;
+}
+.logt {
+  background-color: aliceblue;
+  margin-top: 3%;
+}

@@ -1,0 +1,35 @@
+.detail {
+  width: 80%;
+
+  position: absolute;
+  top: 15%;
+  left: 22%;
+  backdrop-filter: blur(30px);
+  border: 2px solid black;
+  width: 50%;
+  height: 95vh;
+  padding-top: 1%;
+  color: black;
+  font-size: 1.8rem;
+  font-weight: bold;
+  line-height: 1.8;
+  justify-content: center;
+}
+.info {
+  background-color: aliceblue;
+  color: black;
+  font-size: 1.2rem;
+}
+button {
+  height: 4vh;
+  width: 30%;
+  font-size: 1rem;
+  background-color: aliceblue;
+  text-decoration: none;
+  margin-top: 5%;
+}
+
+span {
+  font-size: 1.4rem;
+  background-color: aliceblue;
+}
